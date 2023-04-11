@@ -1,5 +1,5 @@
 # EOCprognosis
-Implementation for EOCSA: Predicting prognosis of Epithelial ovarian cancer with whole slide histopathological images. ESWA 2022.
+Implementation for "EOCSA: Predicting prognosis of Epithelial ovarian cancer with whole slide histopathological images"[https://arxiv.org/pdf/2210.05258]. ESWA 2022.
 
 **Files introduction**
 
